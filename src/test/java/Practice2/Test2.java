@@ -9,5 +9,6 @@ public class Test2 {
 	{
 		System.out.println("Orange");
 		System.out.println("mango");
+		System.out.println("Grapes");
 	}
 }
