@@ -8,6 +8,6 @@ public class Test2 {
 	public void OrangeTest()
 	{
 		System.out.println("Orange");
-		System.out.println("Grapes");
+		System.out.println("ironMan");
 	}
 }
